@@ -1,3 +1,4 @@
+console.log(typeof Symbol(0));
 console.log(typeof "Hello, World!");
 console.log(typeof 42);
 console.log(typeof true);
